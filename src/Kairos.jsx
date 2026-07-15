@@ -868,7 +868,7 @@ export default function Kairos() {
           </div>
           {entries.length === 0 ? (
             <div className="rounded-lg border border-dashed border-gray-300 bg-white p-8 text-center text-sm text-gray-500">
-              Nothing tracked yet. Start the clock and your first entry lands here — and in Notion.
+              Nothing tracked yet. Start the clock and your first entry lands here.
             </div>
           ) : (
             <ul className="space-y-2">
